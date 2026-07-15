@@ -1,1 +1,1 @@
-Math and python fo ml
+Math and python for ml
